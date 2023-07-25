@@ -1,0 +1,1 @@
+this is a README file for "Accessing private method in java" program 
